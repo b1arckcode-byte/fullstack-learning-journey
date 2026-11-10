@@ -1,0 +1,4 @@
+th,td,tr {
+    border:px solid rgb(215, 8, 8);
+    border-collapse: collapse;
+}
